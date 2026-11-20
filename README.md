@@ -2,13 +2,13 @@
 
 **Show calculator key steps to your class, replay them, and save them for next time.**
 
-[![version](https://img.shields.io/badge/version-0.3.23%20·%20teacher%200.1.1-0969DA)](https://myturtlelab.github.io/sci50-teacher/)
-[![online](https://img.shields.io/badge/runs-online%20only-0969DA)](https://myturtlelab.github.io/sci50-teacher/)
+[![version](https://img.shields.io/badge/version-0.3.23%20·%20teacher%200.1.2-0969DA)](https://teach.pwc.hk/)
+[![online](https://img.shields.io/badge/runs-online%20only-0969DA)](https://teach.pwc.hk/)
 [![HKDSE](https://img.shields.io/badge/HKDSE-teaching-8250DF)](#what-it-is-for)
 [![price](https://img.shields.io/badge/price-free-1A7F37)](LICENSE.md)
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/flyingturtle)
 
-**Open it:** https://myturtlelab.github.io/sci50-teacher/
+**Open it:** https://teach.pwc.hk
 
 The same two-line programmable calculator as the [student version](https://myturtlelab.github.io/sci50-html/), with a **key record** beside it for the projector.
 
@@ -23,7 +23,7 @@ The same two-line programmable calculator as the [student version](https://mytur
 
 ## Use it
 
-1. Open https://myturtlelab.github.io/sci50-teacher/ in Chrome or Edge on the classroom computer. The key record is open from the start.
+1. Type teach.pwc.hk in Chrome or Edge on the classroom computer. The key record is open from the start.
 2. Press keys on the calculator, or type on the computer keyboard (press **?** for the key list).
 3. Press **Play** to show the steps again.
 
