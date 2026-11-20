@@ -1,8 +1,10 @@
-# Sci-50 programmable — Teacher edition
+# PracCalc — Teacher edition
+
+PracCalc (練機) is the DSE practice calculator (DSE練習計數機), called Sci-50 programmable until November 2026.
 
 **Show calculator key steps to your class, replay them, and save them for next time.**
 
-[![version](https://img.shields.io/badge/version-0.3.23%20·%20teacher%200.1.2-0969DA)](https://teach.pwc.hk/)
+[![version](https://img.shields.io/badge/version-0.3.23%20·%20teacher%200.1.3-0969DA)](https://teach.pwc.hk/)
 [![online](https://img.shields.io/badge/runs-online%20only-0969DA)](https://teach.pwc.hk/)
 [![HKDSE](https://img.shields.io/badge/HKDSE-teaching-8250DF)](#what-it-is-for)
 [![price](https://img.shields.io/badge/price-free-1A7F37)](LICENSE.md)
@@ -50,13 +52,13 @@ No sign-up, no ads, no tracking. Opening the page is a request to GitHub Pages, 
 
 ## Support the project
 
-Sci-50 is free. If it helps your lessons, consider buying me a coffee.
+PracCalc is free. If it helps your lessons, consider buying me a coffee.
 
 <a href="https://buymeacoffee.com/flyingturtle"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a coffee" height="45"></a>
 
 ## Disclaimer
 
-Sci-50 is provided free of charge and "as is". It is not an examination-approved calculator and must not be used where only approved calculators are allowed. It is not affiliated with or endorsed by any calculator maker or examination authority.
+PracCalc is provided free of charge and "as is". It is not an examination-approved calculator and must not be used where only approved calculators are allowed. It is not affiliated with or endorsed by any calculator maker or examination authority.
 
 ## Licence
 

@@ -1,4 +1,4 @@
-# Third-party notices — Sci-50 programmable, teacher edition (web)
+# Third-party notices — PracCalc (formerly Sci-50 programmable), teacher edition (web)
 
 ## Libraries used
 
