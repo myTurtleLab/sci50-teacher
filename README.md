@@ -4,7 +4,7 @@ PracCalc (練機) is the DSE practice calculator (DSE練習計數機), called Sc
 
 **Show calculator key steps to your class, replay them, and save them for next time.**
 
-[![version](https://img.shields.io/badge/version-0.3.24%20·%20teacher%200.1.4-0969DA)](https://teach.pwc.hk/)
+[![version](https://img.shields.io/badge/version-0.3.52%20·%20teacher%200.1.5-0969DA)](https://teach.pwc.hk/)
 [![online](https://img.shields.io/badge/runs-online%20only-0969DA)](https://teach.pwc.hk/)
 [![HKDSE](https://img.shields.io/badge/HKDSE-teaching-8250DF)](#what-it-is-for)
 [![price](https://img.shields.io/badge/price-free-1A7F37)](LICENSE.md)
