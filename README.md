@@ -14,6 +14,20 @@ PracCalc (練機) is the DSE practice calculator (DSE練習計數機), called Sc
 
 The same two-line programmable calculator as the [student version](https://myturtlelab.github.io/sci50-html/), with a **key record** beside it for the projector.
 
+## Screenshots
+
+![The teacher edition: the calculator on the left, and on the right a key record of three calculations. Each key is a numbered key cap, and each line ends with its answer: 5, 5624.32 and 30.](docs/screenshots/key-record.png)
+
+*Every key you press is recorded beside the calculator, one line per calculation, with the answer the display shows.*
+
+![Replay paused at step 20: the power key is outlined with its step number on the calculator and in the key record, and the steps already shown are ticked.](docs/screenshots/replay.png)
+
+*Replay for the class: the key being pressed lights up on the calculator and in the record. Your own calculator is not changed.*
+
+<img src="docs/screenshots/light-theme.png" alt="The teacher edition in the light theme on a narrower window, with the key record beside the calculator." width="410">
+
+*The light theme, on a narrower window.*
+
 ## What it is for
 
 - **Teach the key sequence, not only the answer.** Every key you press appears beside the calculator as a key cap with a step number. A key used after SHIFT or ALPHA shows its other function above it (for example sin⁻¹), and a menu choice shows its name (for example COMP).
