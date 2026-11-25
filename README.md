@@ -4,7 +4,7 @@ PracCalc (練機) is the DSE practice calculator (DSE練習計數機), called Sc
 
 **Show calculator key steps to your class, replay them, and save them for next time.**
 
-[![version](https://img.shields.io/badge/version-0.3.53%20·%20teacher%200.1.7-0969DA)](https://teach.pwc.hk/)
+[![version](https://img.shields.io/badge/version-0.3.54%20·%20teacher%200.1.9-0969DA)](https://teach.pwc.hk/)
 [![online](https://img.shields.io/badge/runs-online%20only-0969DA)](https://teach.pwc.hk/)
 [![HKDSE](https://img.shields.io/badge/HKDSE-teaching-8250DF)](#what-it-is-for)
 [![price](https://img.shields.io/badge/price-free-1A7F37)](LICENSE.md)
@@ -45,13 +45,15 @@ The same two-line programmable calculator as the [student version](https://mytur
 
 | Computer key | Action |
 | --- | --- |
-| F8 | Hide or show the key record |
+| F8 | Hide or show the key record (or the **Hide [F8]** button; the **Key record [F8]** tab at the top right brings it back) |
 | F9 | Play / Pause |
 | Shift+F9 | Stop |
 | Ctrl+→ | Step |
 | Ctrl+Z | Undo the last key |
 
 Menu (⋮) → **Teacher demonstration** lists every action. The **(i)** button beside the menu shows the notice and the version.
+
+**A− / A+** in the record make the step text smaller or larger (70 % to 180 %).
 
 The key record needs a window at least 600 pixels wide (a computer, or a tablet held sideways). **Record: right / below** moves it under the calculator.
 
