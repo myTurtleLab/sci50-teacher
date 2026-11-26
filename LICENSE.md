@@ -6,7 +6,11 @@ PracCalc (formerly Sci-50 programmable), teacher edition, including the files in
 
 ## What you may do
 
-You may use the teacher edition free of charge, for teaching, by opening it from https://myturtlelab.github.io/sci50-teacher/ (or from pwc.hk). You may share the link, and share demonstration files (`.json`) you make with it.
+You may use the teacher edition for teaching, by opening it from https://teach.pwc.hk (or from pwc.hk). You may share the link, and share demonstration files (`.json`) you make with it.
+
+## Price
+
+The teacher edition is free at present. Neo Time Consulting may change how it is offered, for example to a free trial followed by a paid plan, or may stop offering it. A change of price will be announced on teach.pwc.hk and on https://pwc.hk/app/ before it takes effect, and applies only from then on. Demonstration files you export stay on your computer and are yours to keep.
 
 ## What you may not do without written permission from Neo Time Consulting
 
