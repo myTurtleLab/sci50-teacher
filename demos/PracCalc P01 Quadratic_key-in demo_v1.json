@@ -1,0 +1,419 @@
+{
+  "format": "sci50-demo",
+  "schemaVersion": 1,
+  "sourceAppVersion": "0.3.54",
+  "teacherVersion": "0.1.9",
+  "createdAt": "2026-11-26T02:37:53.415Z",
+  "title": "P1 Quadratic: Vertex, Optimum and Roots",
+  "programsIncluded": false,
+  "sections": [
+    {
+      "start": {
+        "cleanStart": true,
+        "state": {
+          "setup": {
+            "angle": "Deg",
+            "disp": "Norm",
+            "digits": 0,
+            "norm": 1,
+            "frac": "ab/c",
+            "cplx": "a+bi",
+            "freq": true,
+            "contrast": 16
+          },
+          "mode": "COMP",
+          "base": 10,
+          "vars": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "X": 0,
+            "Y": 0,
+            "M": 0
+          },
+          "fracVars": {
+            "$set": []
+          },
+          "fvars": {},
+          "ans": {
+            "re": 0,
+            "im": 0
+          },
+          "stat": {
+            "$stat": {
+              "data": [],
+              "type": "Lin"
+            }
+          },
+          "banks": [
+            [
+              null,
+              null,
+              null,
+              null
+            ]
+          ],
+          "bank": 0,
+          "multiBank": true,
+          "lookOn": false,
+          "insert": true
+        }
+      },
+      "behaviour": {
+        "pwrBanks": true,
+        "pwrLook": false
+      },
+      "keys": [
+        "ON",
+        "MODE",
+        "N6",
+        "N1",
+        "N1",
+        "N1",
+        "SHIFT",
+        "N3",
+        "N1",
+        "SHIFT",
+        "RCL",
+        "NEG",
+        "EXE",
+        "SHIFT",
+        "N3",
+        "N1",
+        "SHIFT",
+        "RCL",
+        "DMS",
+        "EXE",
+        "SHIFT",
+        "N3",
+        "N1",
+        "SHIFT",
+        "RCL",
+        "HYP",
+        "EXE",
+        "NEG",
+        "ALPHA",
+        "DMS",
+        "DIV",
+        "LPAR",
+        "N2",
+        "ALPHA",
+        "NEG",
+        "RPAR",
+        "SHIFT",
+        "RCL",
+        "RPAR",
+        "SHIFT",
+        "N3",
+        "N4",
+        "EXE",
+        "ALPHA",
+        "NEG",
+        "ALPHA",
+        "RPAR",
+        "SQR",
+        "ADD",
+        "ALPHA",
+        "DMS",
+        "ALPHA",
+        "RPAR",
+        "ADD",
+        "ALPHA",
+        "HYP",
+        "SHIFT",
+        "N3",
+        "N4",
+        "EXE",
+        "ALPHA",
+        "DMS",
+        "SQR",
+        "SUB",
+        "N4",
+        "ALPHA",
+        "NEG",
+        "ALPHA",
+        "HYP",
+        "SHIFT",
+        "RCL",
+        "SIN",
+        "SHIFT",
+        "N3",
+        "N4",
+        "EXE",
+        "ALPHA",
+        "RPAR",
+        "ADD",
+        "SQRT",
+        "ALPHA",
+        "SIN",
+        "RPAR",
+        "DIV",
+        "LPAR",
+        "N2",
+        "ALPHA",
+        "NEG",
+        "RPAR",
+        "SHIFT",
+        "N3",
+        "N4",
+        "EXE",
+        "ALPHA",
+        "RPAR",
+        "SUB",
+        "SQRT",
+        "ALPHA",
+        "SIN",
+        "RPAR",
+        "DIV",
+        "LPAR",
+        "N2",
+        "ALPHA",
+        "NEG",
+        "RPAR",
+        "AC",
+        "MODE",
+        "N1",
+        "AC",
+        "PROG",
+        "N1",
+        "N1",
+        "EXE",
+        "N2",
+        "EXE",
+        "NEG",
+        "N1",
+        "N5",
+        "EXE",
+        "EXE",
+        "EXE",
+        "EXE",
+        "EXE"
+      ],
+      "random": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
+      "lines": [
+        {
+          "endStep": 6,
+          "result": "= 000"
+        },
+        {
+          "endStep": 9,
+          "result": "= 001"
+        },
+        {
+          "endStep": 13,
+          "result": "= 004"
+        },
+        {
+          "endStep": 16,
+          "result": "= 005"
+        },
+        {
+          "endStep": 20,
+          "result": "= 008"
+        },
+        {
+          "endStep": 23,
+          "result": "= 009"
+        },
+        {
+          "endStep": 27,
+          "result": "= 012"
+        },
+        {
+          "endStep": 42,
+          "result": "= 022"
+        },
+        {
+          "endStep": 43,
+          "result": "= 023"
+        },
+        {
+          "endStep": 59,
+          "result": "= 032"
+        },
+        {
+          "endStep": 60,
+          "result": "= 033"
+        },
+        {
+          "endStep": 75,
+          "result": "= 042"
+        },
+        {
+          "endStep": 76,
+          "result": "= 043"
+        },
+        {
+          "endStep": 92,
+          "result": "= 054"
+        },
+        {
+          "endStep": 93,
+          "result": "= 055"
+        },
+        {
+          "endStep": 109,
+          "result": "✓"
+        },
+        {
+          "endStep": 112,
+          "result": "A? 0."
+        },
+        {
+          "endStep": 114,
+          "result": "B? 0."
+        },
+        {
+          "endStep": 116,
+          "result": "C? 0."
+        },
+        {
+          "endStep": 120,
+          "result": "= −1."
+        },
+        {
+          "endStep": 121,
+          "result": "= −16."
+        },
+        {
+          "endStep": 122,
+          "result": "= 64."
+        },
+        {
+          "endStep": 123,
+          "result": "= 3."
+        },
+        {
+          "endStep": 124,
+          "result": "= −5."
+        }
+      ]
+    }
+  ]
+}
